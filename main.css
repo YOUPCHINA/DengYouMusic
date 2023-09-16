@@ -650,3 +650,8 @@ body .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon.apla
     overflow: inherit;
   }
 }
+
+body, html {
+    padding: 0;
+    margin: 0;
+}
